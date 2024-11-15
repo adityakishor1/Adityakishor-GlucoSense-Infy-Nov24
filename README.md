@@ -75,7 +75,5 @@ This project uses the following visualizations to better understand the dataset:
 - Build machine learning models (e.g., Logistic Regression, Decision Trees) to predict diabetes based on the features.
 - Hyperparameter tuning for the chosen model to optimize performance.
   
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
