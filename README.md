@@ -52,6 +52,8 @@ This project uses the following visualizations to better understand the dataset:
 - Matplotlib
 - Seaborn
 
+Certificate post:- https://www.linkedin.com/feed/update/urn:li:activity:7294034214474108928/
+
 ## How to Run
 
 1. Clone the repository:
